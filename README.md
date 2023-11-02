@@ -21,7 +21,7 @@ Workshop Schedule:
 
 |   | Run |
 | - | --- |
-| Tutorial | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([([https://colab.research.google.com/github/tugcegurbuz/MiCM-Fall23_Intro-to-CNNs/blob/main/tutorials/Tutorial_1_Intro_to_CNNs.ipynb](https://colab.research.google.com/drive/1Qdu5b8u_QemFhFGuBXS_cqxrBR9Bgnm0?usp=sharing))](https://colab.research.google.com/drive/1YDO7bxN4cdKsLvxes7KRuy804EcoyB2u?usp=sharing)) |)
+| Tutorial |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Qdu5b8u_QemFhFGuBXS_cqxrBR9Bgnm0?usp=sharing) |)
 
 
 ## References
