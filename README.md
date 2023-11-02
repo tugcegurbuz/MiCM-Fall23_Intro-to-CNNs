@@ -10,7 +10,7 @@ Workshop Schedule:
 
 |   | Run |
 | - | --- |
-| Tutorial | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/tugcegurbuz/MiCM-Summer23-Intro-to-ML-with-Python/blob/main/tutorials/0_Introduction_to_Google_Colab_Basics_and_Pytorch.ipynb](https://colab.research.google.com/drive/1YDO7bxN4cdKsLvxes7KRuy804EcoyB2u?usp=sharing)) |)
+| Tutorial | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/tugcegurbuz/MiCM-Summer23-Intro-to-ML-with-Python/blob/main/tutorials/0_Introduction_to_Google_Colab_Basics_and_Pytorch.ipynb]) |)
 
 * *Recap [previous workshop material](https://github.com/tugcegurbuz/MiCM-Summer23-Intro-to-ML-with-Python)*
 
