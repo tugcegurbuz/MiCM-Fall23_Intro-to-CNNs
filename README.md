@@ -16,13 +16,12 @@ Workshop Schedule:
 
 
 ### Introduction to Convolutional Neural Networks
-* Slides: [Multi Layer Perceptrons](https://github.com/tugcegurbuz/MiCM-Summer23-Intro-to-ML-with-Python/blob/main/lectures/1_Multi%20Layer%20Perceptrons.pdf)
-* *Classify hand-written letters and clothes with CNNs*
+* Slides: [Intro to CNNs](https://github.com/tugcegurbuz/MiCM-Summer23-Intro-to-ML-with-Python/blob/main/lectures/1_Multi%20Layer%20Perceptrons.pdf)
+* *Learn about how convolution operation works*
 
 |   | Run |
 | - | --- |
-| Tutorial | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iJ-4KhxIqx8kdRxstHLb2FyELldGKc9Q?usp=sharing) |)
-
+| Tutorial | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([(https://colab.research.google.com/github/tugcegurbuz/MiCM-Fall23_Intro-to-CNNs/blob/main/tutorials/Tutorial_1_Intro_to_CNNs.ipynb)](https://colab.research.google.com/drive/1YDO7bxN4cdKsLvxes7KRuy804EcoyB2u?usp=sharing)) |)
 
 
 ## References
